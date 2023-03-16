@@ -1,0 +1,10 @@
+name: dataprocessing
+dependencies:
+  - cartopy
+  - dask
+  - datashader
+  - hvplot
+  - jupyterlab
+  - matplotlib
+channels:
+  - conda-forge

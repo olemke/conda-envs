@@ -1,0 +1,16 @@
+name: arts
+dependencies:
+  - docutils
+  - glew
+  - glfw
+  - ipython
+  - lark-parser
+  - matplotlib
+  - netCDF4
+  - pytest
+  - scipy
+  - setuptools
+  - sphinx-rtd-theme
+  - xarray
+channels:
+  - conda-forge
